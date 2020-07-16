@@ -41,7 +41,7 @@
 * 机器学习大牛博客: <https://www.cnblogs.com/pinard/p/6061661.html>
 * 机器学习算法学习列表: <http://freewill.top/tech-stack/>
 
-#### 线性回归<br>
+#### 线性回归(Line Regression)<br>
 * 局部加权线性回归: <http://cynhard.com/2018/07/13/ML-Locally-Weighted-Linear-Regression/>
 
 #### K近邻(KNN)<br>
