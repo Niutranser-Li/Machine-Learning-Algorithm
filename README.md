@@ -18,18 +18,18 @@
     <td>使用感知机模型实现鸢尾花分类</td>
     <td><a href="./感知机模型/IRIS-data">数据集链接</a></td>
     <td><a href="./感知机模型/PLA_classifier.py">算法实现代码链接</a></td>
-    <td>二分类模型</td>
+    <td>二分类</td>
   </tr>
   <tr>
     <td>线型回归</td>
     <td>使用线型回归模型预测鲍鱼年龄</td>
     <td><a href="./线性回归模型/dataset">数据集链接</a></td>
     <td>
-      <a href="./线性回归模型/line_regression.py">普通线型回归模型(正规方程/梯度下降法求解)</a><br>
-      <a href="./线性回归模型/LWLR.py">局部加权线型回归模型</a><br>
-      <a href="./线性回归模型/Redge_regression.py">岭回归模型(Redge Line Regression)</a>
+      <a href="./线性回归模型/line_regression.py">普通线性回归(正规方程/梯度下降法求解)</a><br>
+      <a href="./线性回归模型/LWLR.py">局部加权线性回归</a><br>
+      <a href="./线性回归模型/Redge_regression.py">岭回归(Redge Line Regression)</a>
     </td>
-    <td>线性回归模型</td>
+    <td>回归</td>
   </tr>
 </table>
 <img src="https://github.com/Niutranser-Li/Machine-Learning-Algorithm/blob/master/1.jpg"></img>
