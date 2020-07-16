@@ -1,4 +1,4 @@
-# 机器学习技术栈<img width=40 src="https://github.com/Niutranser-Li/Machine-Learning-Algorithm/blob/master/2.png"></img>
+# 机器学习与人工智能技术栈<img width=40 src="https://github.com/Niutranser-Li/Machine-Learning-Algorithm/blob/master/2.png"></img>
 ## KeyWords: Machine Learning | AI | Code
 机器学习（统计方法+深度学习）理论方法+技术实战、自然语言处理、人工智能、数据集资源、学习方法和技术路线<br>
 **要是喜欢的话就给个星星哦~**<img width=30 src="https://github.com/Niutranser-Li/Machine-Learning-Algorithm/blob/master/3.png"></img><br>
