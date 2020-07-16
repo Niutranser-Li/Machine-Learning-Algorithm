@@ -21,8 +21,8 @@
     <td>二分类</td>
   </tr>
   <tr>
-    <td>线型回归</td>
-    <td>使用线型回归模型预测鲍鱼年龄</td>
+    <td>线性回归</td>
+    <td>使用线性回归模型预测鲍鱼年龄</td>
     <td><a href="./线性回归模型/dataset">数据集链接</a></td>
     <td>
       <a href="./线性回归模型/line_regression.py">普通线性回归(正规方程/梯度下降法求解)</a><br>
@@ -41,8 +41,8 @@
 * 机器学习大牛博客: <https://www.cnblogs.com/pinard/p/6061661.html>
 * 机器学习算法学习列表: <http://freewill.top/tech-stack/>
 
-#### 线型回归相关资源<br>
-* 局部加权线型回归: <http://cynhard.com/2018/07/13/ML-Locally-Weighted-Linear-Regression/>
+#### 线性回归相关资源<br>
+* 局部加权线性回归: <http://cynhard.com/2018/07/13/ML-Locally-Weighted-Linear-Regression/>
 
 #### 特征归一化<br>
 * 常见的归一化方法: <https://blog.csdn.net/UESTC_C2_403/article/details/75804617?utm_source=blogxgwz19>
