@@ -9,12 +9,24 @@
     <th>主要内容</th>
     <th>算法实现</th>
     <th>代码链接</th>
+    <th>算法类型</th>
   </tr>
   <tr>
     <td>机器学习实战</td>
     <td>机器学习基础算法实战: 使用感知机模型实现鸢尾花分类</td>
     <td><a href="./感知机模型/IRIS-data">数据集链接</a></td>
     <td><a href="./感知机模型/PLA_classifier.py">算法实现代码链接</a></td>
-    <td>1306014226</td>
+    <td>经典二分类模型</td>
+  </tr>
+  <tr>
+    <td>机器学习实战</td>
+    <td>机器学习基础算法实战: 使用线型回归模型预测鲍鱼年龄</td>
+    <td><a href="./线性回归模型/dataset">数据集链接</a></td>
+    <td>
+      <a href="./线性回归模型/line_regression.py">普通线型回归模型(分别使用正规方程及梯度下降方法求解)</a>
+      <a href="./线性回归模型/LWLR.py">局部加权线型回归模型</a>
+      <a href="./线性回归模型/Redge_regression.py">岭回归模型(Redge Line Regression)</a>
+    </td>
+    <td>经典线型回归模型</td>
   </tr>
 </table>
