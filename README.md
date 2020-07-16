@@ -16,7 +16,7 @@
     <td>项目实践: 使用感知机模型实现鸢尾花分类</td>
     <td><a href="./感知机模型/IRIS-data">数据集链接</a></td>
     <td><a href="./感知机模型/PLA_classifier.py">算法实现代码链接</a></td>
-    <td>经典二分类模型</td>
+    <td>二分类模型</td>
   </tr>
   <tr>
     <td>机器学习实战</td>
@@ -27,6 +27,6 @@
       <a href="./线性回归模型/LWLR.py">局部加权线型回归模型</a><br>
       <a href="./线性回归模型/Redge_regression.py">岭回归模型(Redge Line Regression)</a>
     </td>
-    <td>经典线型回归模型</td>
+    <td>线型回归模型</td>
   </tr>
 </table>
