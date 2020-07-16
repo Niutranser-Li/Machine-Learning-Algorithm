@@ -1,3 +1,4 @@
+![](https://github.com/Niutranser-Li/Machine-Learning-Algorithm/blob/master/2.png)
 # 机器学习方法技术客栈
 机器学习（统计方法+深度学习）理论方法+技术实战、数据集资源、学习方法和技术路线<br>
 **项目初期可能会以机器学习算法相关的项目实战为主, 后续会陆续更新一些针对各种算法的理解以及学习路线等等的一些小知识！**
