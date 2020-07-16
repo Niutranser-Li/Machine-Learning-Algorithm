@@ -41,8 +41,11 @@
 * 机器学习大牛博客: <https://www.cnblogs.com/pinard/p/6061661.html>
 * 机器学习算法学习列表: <http://freewill.top/tech-stack/>
 
-#### 线性回归相关资源<br>
+#### 线性回归<br>
 * 局部加权线性回归: <http://cynhard.com/2018/07/13/ML-Locally-Weighted-Linear-Regression/>
+
+#### K近邻(KNN)<br>
+* K近邻方法: <https://www.cnblogs.com/pythoner6833/p/9296035.html>
 
 #### 特征归一化<br>
 * 常见的归一化方法: <https://blog.csdn.net/UESTC_C2_403/article/details/75804617?utm_source=blogxgwz19>
