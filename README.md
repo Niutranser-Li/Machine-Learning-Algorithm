@@ -1,4 +1,8 @@
-<img width="200" src="1.jpg">
+<p align="center">
+    <a>
+        <img src="./1.png">
+    </a>
+</p>
 # Machine-Learning-Algorithm
 机器学习（统计方法+深度学习）理论方法+技术实战、数据集资源、学习方法和技术客栈
 
