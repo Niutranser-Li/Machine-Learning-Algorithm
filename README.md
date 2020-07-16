@@ -46,6 +46,7 @@
 
 #### K近邻(KNN)<br>
 * K近邻方法: <https://www.cnblogs.com/pythoner6833/p/9296035.html>
+* 距离度量方法: <https://www.cnblogs.com/liupeng-Wang/p/8894342.html>
 
 #### 特征归一化<br>
 * 常见的归一化方法: <https://blog.csdn.net/UESTC_C2_403/article/details/75804617?utm_source=blogxgwz19>
