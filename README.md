@@ -14,7 +14,7 @@
     <td>机器学习实战</td>
     <td>机器学习基础算法实战: 使用感知机模型实现鸢尾花分类</td>
     <td><a href="./感知机模型/IRIS-data">数据集链接</a></td>
-    <td><a></a></td>
+    <td><./感知机模型/PLA_classifier.py></td>
     <td>1306014226</td>
   </tr>
 </table>
