@@ -14,14 +14,14 @@
     <th>算法类型</th>
   </tr>
   <tr>
-    <td>感知机模型</td>
+    <td>感知机</td>
     <td>使用感知机模型实现鸢尾花分类</td>
     <td><a href="./感知机模型/IRIS-data">数据集链接</a></td>
     <td><a href="./感知机模型/PLA_classifier.py">算法实现代码链接</a></td>
     <td>二分类模型</td>
   </tr>
   <tr>
-    <td>线型回归模型</td>
+    <td>线型回归</td>
     <td>使用线型回归模型预测鲍鱼年龄</td>
     <td><a href="./线性回归模型/dataset">数据集链接</a></td>
     <td>
