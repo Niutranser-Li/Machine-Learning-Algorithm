@@ -23,8 +23,8 @@
     <td>机器学习基础算法实战: 使用线型回归模型预测鲍鱼年龄</td>
     <td><a href="./线性回归模型/dataset">数据集链接</a></td>
     <td>
-      <a href="./线性回归模型/line_regression.py">普通线型回归模型(分别使用正规方程及梯度下降方法求解)</a>
-      <a href="./线性回归模型/LWLR.py">局部加权线型回归模型</a>
+      <a href="./线性回归模型/line_regression.py">普通线型回归模型(正规方程/梯度下降法求解)</a><br>
+      <a href="./线性回归模型/LWLR.py">局部加权线型回归模型</a><br>
       <a href="./线性回归模型/Redge_regression.py">岭回归模型(Redge Line Regression)</a>
     </td>
     <td>经典线型回归模型</td>
