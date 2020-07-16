@@ -1,6 +1,6 @@
 <p align="center">
     <a>
-        <img src="./1.png">
+        <img src="https://github.com/Niutranser-Li/Machine-Learning-Algorithm/blob/master/1.png">
     </a>
 </p>
 # Machine-Learning-Algorithm
