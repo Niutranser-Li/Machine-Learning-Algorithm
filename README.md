@@ -43,3 +43,6 @@
 
 #### 线型回归相关资源<br>
 * 局部加权线型回归: <http://cynhard.com/2018/07/13/ML-Locally-Weighted-Linear-Regression/>
+
+#### 特征归一化<br>
+* 机器学习任务中常见的归一化方法: <https://blog.csdn.net/UESTC_C2_403/article/details/75804617?utm_source=blogxgwz19>
