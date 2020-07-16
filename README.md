@@ -33,3 +33,13 @@
   </tr>
 </table>
 <img src="https://github.com/Niutranser-Li/Machine-Learning-Algorithm/blob/master/1.jpg"></img>
+
+### 学习路线(网络资源汇总)<br>
+#### 大牛博客<br>
+* (推荐)刘建平Pinard: <https://www.cnblogs.com/pinard/p/6004041.html>
+* (推荐)北大小天才机器学习系列: <https://www.pkudodo.com/2018/11/18/1-4/>
+* 机器学习大牛博客: <https://www.cnblogs.com/pinard/p/6061661.html>
+* 机器学习算法学习列表: <http://freewill.top/tech-stack/>
+
+#### 线型回归相关资源<br>
+* 局部加权线型回归: <http://cynhard.com/2018/07/13/ML-Locally-Weighted-Linear-Regression/>
