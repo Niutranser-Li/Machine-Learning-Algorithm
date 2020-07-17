@@ -114,6 +114,7 @@
 
 #### 优秀Github资源
 * Github 机器学习通俗易懂系列文章:<https://github.com/NLP-LOVE/ML-NLP>
+* AI-Learning: <https://github.com/apachecn/AiLearning>
 
 ### 相关书籍推荐
 数学之美、统计学习方法(李航)、机器学习西瓜书、漫画算法、深度学习花书、白话深度学习
