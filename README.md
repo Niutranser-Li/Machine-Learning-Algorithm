@@ -80,6 +80,7 @@
 * 模型讲解补充: <https://blog.csdn.net/a763470525/article/details/102953815>
 
 #### 线性回归(Line Regression)<br>
+* 多元线型回归原理与推导过程: <https://blog.csdn.net/weixin_39445556/article/details/81416133>
 * 局部加权线性回归: <http://cynhard.com/2018/07/13/ML-Locally-Weighted-Linear-Regression/>
 * Lasso回归算法(讲解坐标轴下降法和最小回归算法): <https://www.cnblogs.com/pinard/p/6018889.html>
 
