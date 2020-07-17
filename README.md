@@ -49,6 +49,15 @@
     </td>
     <td>分类</td>
   </tr>
+  <tr>
+    <td>朴素贝叶斯</td>
+    <td>实现垃圾邮件分类</td>
+    <td><a href="./朴素贝叶斯/dataset/email/">数据集链接</a></td>
+    <td>
+      <a href="./朴素贝叶斯/nativeBayes_email.py">朴素贝叶斯垃圾邮件分类</a>
+    </td>
+    <td>分类</td>
+  </tr>
 </table>
 <img src="https://github.com/Niutranser-Li/Machine-Learning-Algorithm/blob/master/img/1.jpg"></img>
 
