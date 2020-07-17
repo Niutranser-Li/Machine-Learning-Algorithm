@@ -36,7 +36,7 @@
     <td>改进约会网站配对效果</td>
     <td><a href="./K近邻模型(KNN)/dataset/datingTestSet.txt">数据集链接</a></td>
     <td>
-      <a href="./K近邻模型(KNN)/general_knn_hall.py">普通线性回归(正规方程/梯度下降法求解)</a>
+      <a href="./K近邻模型(KNN)/general_knn_hall.py">改进约会网站配对效果</a>
     </td>
     <td>分类/回归</td>
   </tr>
