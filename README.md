@@ -40,6 +40,15 @@
     </td>
     <td>分类/回归</td>
   </tr>
+  <tr>
+    <td>朴素贝叶斯</td>
+    <td>简单实例: 感受方法估计方式</td>
+    <td><a href="./朴素贝叶斯/nativeBayes_generate.py">数据集链接</a></td>
+    <td>
+      <a href="./朴素贝叶斯/nativeBayes_generate.py">朴素贝叶斯简单实例</a>
+    </td>
+    <td>分类</td>
+  </tr>
 </table>
 <img src="https://github.com/Niutranser-Li/Machine-Learning-Algorithm/blob/master/img/1.jpg"></img>
 
