@@ -62,5 +62,8 @@
 #### 特征归一化<br>
 * 常见的归一化方法: <https://blog.csdn.net/UESTC_C2_403/article/details/75804617?utm_source=blogxgwz19>
 
+#### 贝叶斯分类<br>
+* 贝叶斯决策理论讲得不错: <https://cuijiahua.com/blog/2017/11/ml_4_bayes_1.html>
+
 ### 相关书籍推荐
 数学之美、统计学习方法(李航)、机器学习西瓜书、漫画算法、深度学习花书、白话深度学习
