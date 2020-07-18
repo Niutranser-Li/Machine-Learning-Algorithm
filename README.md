@@ -123,6 +123,10 @@
 * SVM知识讲的很棒: <https://blog.csdn.net/hemeinvyiqiluoben/article/details/84751568>
 * SVM讲得很不错: <https://blog.csdn.net/v_JULY_v/article/details/7624837#commentBox>
 * SVM数学讲解: <https://blog.csdn.net/wjw1993year/article/details/81166198>
+* SVM面试典型题目1: <https://www.jianshu.com/p/fa02098bc220>
+* SVM面试典型题目2: <https://blog.csdn.net/cy_ariel/article/details/82692069>
+* SVM面试典型题目3: <https://blog.csdn.net/szlcw1/article/details/52259668>
+* SVM面试典型题目4: <https://zhuanlan.zhihu.com/p/43827793>
 
 #### 模型优化方法
 * L1和L2正则化:<https://blog.csdn.net/zhaomengszu/article/details/81537197>
