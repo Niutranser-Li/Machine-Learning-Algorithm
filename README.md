@@ -120,6 +120,7 @@
 * 一文搞定GBDT、XGBoost、LightGBM：<https://zhuanlan.zhihu.com/p/148050748>
 
 #### 支持向量机(SVM)<br>
+* SVM视频课, 讲得超超超超棒！: <https://www.bilibili.com/video/BV1Vt411v7bg?from=search&seid=11368161241428954809>
 * SVM知识讲的很棒: <https://blog.csdn.net/hemeinvyiqiluoben/article/details/84751568>
 * SVM讲得很不错: <https://blog.csdn.net/v_JULY_v/article/details/7624837#commentBox>
 * SVM数学讲解: <https://blog.csdn.net/wjw1993year/article/details/81166198>
