@@ -134,6 +134,8 @@
 * L1和L2正则化:<https://blog.csdn.net/zhaomengszu/article/details/81537197>
 * L1和L2正则化的讲解:<https://blog.csdn.net/wj5637606/article/details/84582966>
 * L1正则化项的优化算法: <https://zhuanlan.zhihu.com/p/59734411>
+* 三种角度解析L1稀疏与L2平滑: <https://www.zhihu.com/question/37096933/answer/475278057>
+* L1和L2深度解析: <https://www.cnblogs.com/zingp/p/10375691.html>
 * 关于Variance和bias(方差和偏差): <https://msd.misuland.com/pd/8150256491669278>
 
 #### 数学基础<br>
