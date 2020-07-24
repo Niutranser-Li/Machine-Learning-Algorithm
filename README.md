@@ -137,7 +137,7 @@
 * 关于Variance和bias(方差和偏差): <https://msd.misuland.com/pd/8150256491669278>
 
 #### 数学基础<br>
-* 泰勒展开:<https://blog.csdn.net/a763470525/article/details/102953815>
+* 泰勒展开:<https://www.zhihu.com/question/25627482/answer/313088784>
 
 #### 优秀Github资源
 * Github 机器学习通俗易懂系列文章:<https://github.com/NLP-LOVE/ML-NLP>
