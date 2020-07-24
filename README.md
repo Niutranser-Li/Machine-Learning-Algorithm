@@ -65,7 +65,6 @@
 #### 大牛博客<br>
 * (推荐)刘建平Pinard: <https://www.cnblogs.com/pinard/p/6004041.html>
 * (推荐)北大小天才机器学习系列: <https://www.pkudodo.com/2018/11/18/1-4/>
-* 机器学习大牛博客: <https://www.cnblogs.com/pinard/p/6061661.html>
 * 机器学习算法学习列表: <http://freewill.top/tech-stack/>
 * 美团机器学习团队: <https://tech.meituan.com/>
 * 各种资源总结: <https://blog.csdn.net/lrs1353281004/article/details/79529818>
