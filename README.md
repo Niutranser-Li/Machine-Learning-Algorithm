@@ -73,8 +73,7 @@
 * 机器学习相关问题3: <https://www.cnblogs.com/nolonely/p/7309252.html>
 * 机器学习相关问题4：<https://blog.csdn.net/lrs1353281004/article/details/79529818>
 * 机器学习相关问题5：<https://www.zhihu.com/question/23259302/answer/527513387>
-* 机器学习相关问题6：<https://blog.csdn.net/lrs1353281004/article/details/79529818>
-* 机器学习相关问题7：<https://zhuanlan.zhihu.com/p/144976773?utm_source=zhihu&utm_medium=social&utm_oi=812699614112256000>
+* 机器学习相关问题6：<https://zhuanlan.zhihu.com/p/144976773?utm_source=zhihu&utm_medium=social&utm_oi=812699614112256000>
 
 #### 感知机模型<br>
 * 感知机模型:<https://www.cntofu.com/book/48/gan-zhi-xue-xi-ji.md>
